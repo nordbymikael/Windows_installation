@@ -1,2 +1,0 @@
-gpedit.msc
-shell:startup
