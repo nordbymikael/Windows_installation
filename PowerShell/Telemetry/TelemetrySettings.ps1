@@ -7,5 +7,3 @@ Disable-ScheduledTask -Taskname "Microsoft Compatibility Appraiser" -TaskPath "\
 Disable-ScheduledTask -Taskname PcaPatchDbTask -TaskPath "\Microsoft\Windows\Application Experience"
 Disable-ScheduledTask -Taskname UsbCeip -TaskPath "\Microsoft\Windows\Customer Experience Improvement Program"
 Disable-ScheduledTask -Taskname Consolidator -TaskPath "\Microsoft\Windows\Customer Experience Improvement Program"
-
-

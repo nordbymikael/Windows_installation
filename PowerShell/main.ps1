@@ -1,3 +1,5 @@
+
+
 ### Static IP Configuration ###
 $AdapterName = "Ethernet"
 $IPType = "IPv4"
